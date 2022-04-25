@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="Smith-Pad-OS"
+iso_name="vitoOS"
 iso_label="ARCH_$(date +%Y%m)"
-iso_publisher="Smith-Pad"
+iso_publisher="vitoOS"
 iso_application="Arch Linux Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
 install_dir="arch"
