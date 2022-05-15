@@ -13,8 +13,8 @@
 
 function createFolders() {
 	cd 						## Making sure it is located in the Home Directory
-	mkdir vitoOS-Development-Environment		## Create the first empty folder 
-	cd vitoOS-Development-Environment		## Go to the first empty folder 
+	mkdir vitoOS-Development-Environment		## Create the first empty folder
+	cd vitoOS-Development-Environment		## Go to the first empty folder
 	mkdir DEVELOPMENT				## Create another folder that contains the development files
 	mkdir TESTING					## Create another folder that contains the Testing Files 
 							## (Merged from DEVELOPMENT)
@@ -22,7 +22,7 @@ function createFolders() {
 
 
 ## Make a function that will create scripts for the 
-## vitoOS-Development-Environment. 
+## vitoOS-Development-Environment.
 
 function createFiles() {
 	## Go to the DEVELOPMENT directory
