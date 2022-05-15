@@ -12,7 +12,7 @@
 1. Please clone the repository by typing in this command: 
 
 ```shell
-git clone https://github.com/vitoOS
+git clone https://github.com/Vito-Research/vitoOS
 ```
 
 
